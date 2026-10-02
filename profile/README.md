@@ -1,12 +1,6 @@
 <div align="center">
 
-<a href="https://nomercy.tv">
-  <img
-    src="https://github.com/user-attachments/assets/33722e91-76f4-41bf-8beb-3e347c0cbd2c" alt="The NoMercy Logo" width="500"
-  />
-</a>
-
-<h3>NoMercy Labs</h3>
+<h1>NoMercy Labs</h1>
 
 <p align="center">
   The workshop behind NoMercy.<br/>
